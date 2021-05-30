@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maincard_height">300dp</dimen>
+    <dimen name="card_margin_leftright">12dp</dimen>
+    <dimen name="card_margin_top">16dp</dimen>
+    <dimen name="subcard_layout_width">85dp</dimen>
+    <dimen name="subcard_border_radius">15dp</dimen>
+    <dimen name="subcard_elevation">15dp</dimen>
+    <dimen name="subImage_size">50dp</dimen>
+    <dimen name="first_subcard_margin">18dp</dimen>
+    <dimen name="subcard_margin">15dp</dimen>
+    <dimen name="top_heading_size">22dp</dimen>
+    <dimen name="maincard_corner_radius">20dp</dimen>
+    <dimen name="image_margin_top">12dp</dimen>
+    <dimen name="margin_start_8">8dp</dimen>
+    <dimen name="margin_top_16">16dp</dimen>
+    <dimen name="main_image_size">60dp</dimen>
+    <dimen name="text_size_15" />
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="textsize_30">30dp</dimen>
+    <dimen name="linearLayout_height">120dp</dimen>
+    <dimen name="margin_top_20">20dp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="bottom_card_height">128dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+</resources>
